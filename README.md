@@ -7,7 +7,7 @@ There are a total of 3 data files for this task. Station data, trip data and wea
 ### Result
  In this task, we have done some data analysis to determine which variables are to be used to achieve the objective. The result of forecasting an hour ahead for station with ID 70 can be visualized using the graph below. The red lines are the forecasted values while the blue lines are the true value.
  
-<img src="forecast.jpg" width="170"/>  
+<img src="forecast.jpg" width="1000"/>  
 
 
 License
